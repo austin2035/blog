@@ -1,0 +1,19 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+const { primaryTitle } = Astro.props;
+const title = primaryTitle ? `${primaryTitle}  -  ${SITE_TITLE}`  : SITE_TITLE;
+---
+
+<html class="js no-touch  progressive-image  no-reduced-motion progressive" lang="zh-CN" dir="ltr">
+  <head>
+    <BaseHead title={title} description={SITE_DESCRIPTION} />
+  </head>
+  <body class="page-landing">
+    <Header />
+    <slot />
+    <Footer />
+  </body>
+</html>

@@ -1,0 +1,47 @@
+---
+import { SITE_TITLE, SITE_EMAIL } from "../consts";
+const { theme } = Astro.props;
+import { SITE_NAME } from "../consts";
+const date = new Date();
+const year = date.getFullYear();
+---
+
+<div class:list={["footer-main", { "footer-dark": theme === "dark" }]}>
+  <div class="content-body footer-wraper">
+    <div class="footer-box">
+      <div class="foot-nav">
+        <div class="foot-nav-items">
+          <div class="item">
+            <div class="logo">{SITE_TITLE}</div>
+            <div class="email">Email: {SITE_EMAIL}</div>
+          </div>
+
+          <div class="item products">
+            <div class="item-title">作品</div>
+            <a href="/" target="_blank">本站</a>
+            <a href="https://the.top" target="_blank">TOP Link</a>
+            <a href="https://news.the.top" target="_blank">TOP News</a>
+          </div>
+
+          <div class="item community">
+            <div class="item-title">社媒</div>
+            <a href="https://twitter.com/austinit" target="_blank">Twitter</a>
+            <a href="https://github.com/austin2035" target="_blank">Github</a>
+            <a href="https://t.me/austin2035" target="_blank">Telegram</a>
+          </div>
+
+          <div class="item resources">
+            <div class="item-title">友链</div>
+            <a href="https://the.top">THE.TOP</a>
+          </div>
+        </div>
+      </div>
+      <div class="bottom">
+        <div class="copyright">
+          &copy; {`2018-${year}  ${SITE_NAME}`} 
+          <a href="//github.com/austin2035/astro-air-blog">astro-air-blog</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

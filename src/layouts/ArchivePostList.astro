@@ -1,0 +1,20 @@
+---
+import { formatDateV2 } from "../utils";
+const { posts } = Astro.props;
+posts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));
+---
+
+<ul>
+  {
+    posts.map((post) => {
+      return (
+        <li>
+          <a href={post.url} class="tag_post-content">
+            <span class="tag-date">[{formatDateV2(post.frontmatter.pubDate)}]</span>
+            {post.frontmatter.title}
+          </a>
+        </li>
+      );
+    })
+  }
+</ul>

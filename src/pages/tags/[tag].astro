@@ -1,0 +1,32 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import ArchivePostList from "../../layouts/ArchivePostList.astro";
+
+const { tag } = Astro.params;
+const { posts } = Astro.props;
+
+export async function getStaticPaths() {
+  const allPosts = await Astro.glob("../posts/*.md");
+  const uniqueTags = [...new Set(allPosts.map((post) => post.frontmatter.tags).flat())];
+  return uniqueTags.map((tag) => {
+    const filteredPosts = allPosts.filter((post) => post.frontmatter.tags.includes(tag));
+    return {
+      params: { tag },
+      props: { posts: filteredPosts },
+    };
+  });
+}
+
+---
+
+<BaseLayout primaryTitle={tag}>
+  <section class="archive">
+    <div class="section-content section-tag">
+      <div class="archive-tag">
+        <h2 class="tag-header">{tag}</h2>
+        <div class="tag-post-list">{
+        posts.length !== 0 ? <ArchivePostList posts={posts} /> : <div class="no-posts">暂无文章</div>}</div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,31 @@
+---
+import { formatDate } from "../utils";
+const { title, href, cover, tags, date  } = Astro.props;
+
+const dateFormated = formatDate(date);
+const type = tags[0];
+const label = `${title} - ${type} - 发表时间 ${dateFormated}`;
+---
+
+<li
+  role="listitem"
+  class="tile-item item-list nr-scroll-animation"
+  style="--nr-animation-transform-y:20%;"
+>
+  <a
+    href={href}
+    class="tile tile-list medium-load small-load large-load"
+    aria-label={label}
+  >
+    <div class="tile__media" aria-hidden="true">
+      <img class="cover image" data-src={cover} alt="lt"/>
+    </div>
+    <div class="tile__description" aria-hidden="true">
+      <div class="tile__head">
+        <div class="tile__category">{type}</div>
+        <div class="tile__headline">{title}</div>
+      </div>
+      <div class="tile__timestamp icon-hide icon icon-before icon-clock">{dateFormated}</div>
+    </div>
+  </a>
+</li>

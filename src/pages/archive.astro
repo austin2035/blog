@@ -1,0 +1,29 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ArchivePostList from "../layouts/ArchivePostList.astro";
+const allPosts = await Astro.glob("./posts/*.md");
+const tags = ["新闻稿", "虚幻引擎", "源码研究"];
+const posts = [];
+
+tags.forEach((tag) => {
+  let filteredPosts = allPosts.filter((post) => post.frontmatter.tags.includes(tag));
+  posts.push(filteredPosts);
+});
+---
+
+<BaseLayout primaryTitle="归档">
+  <section class="archive">
+    <div class="section-content section-tag">
+      {
+        tags.map((tag, index) => {
+          return (
+            <div class="archive-tag">
+              <h2 class="tag-header">{tag}</h2>
+              <div class="tag-post-list">{posts[index].length !== 0 ? <ArchivePostList posts={posts[index]} /> : <div class="no-posts">暂无文章</div>}</div>
+            </div>
+          );
+        })
+      }
+    </div>
+  </section>
+</BaseLayout>

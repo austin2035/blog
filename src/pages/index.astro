@@ -1,0 +1,79 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Tile from "../layouts/Tile.astro";
+import MoreTile from "../layouts/MoreTile.astro";
+const allPosts = await Astro.glob("../pages/posts/*.md");
+allPosts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));
+---
+
+<BaseLayout>
+  <section class="everydayfeed">
+    <div class="section-content">
+      <h2 class="section-head">最新文章</h2>
+      <ul role="list" class="section-tiles">
+        {
+          // tile-hero
+          allPosts.slice(0, 1).map((post) => {
+            return (
+              <Tile title={post.frontmatter.title} href={post.url} date={post.frontmatter.pubDate} tags={post.frontmatter.tags} cover={post.frontmatter.cover.url} level="1" />
+            );
+          })
+        }
+
+        {
+          // tile-2up
+          allPosts.slice(1, 5).map((post) => {
+            return (
+              <Tile title={post.frontmatter.title} href={post.url} date={post.frontmatter.pubDate} tags={post.frontmatter.tags} cover={post.frontmatter.cover.url} level="2" />
+            );
+          })
+        }
+
+        {
+          // tile-3up
+          allPosts.slice(5, 11).map((post) => {
+            return (
+              <Tile title={post.frontmatter.title} href={post.url} date={post.frontmatter.pubDate} tags={post.frontmatter.tags} cover={post.frontmatter.cover.url} level="3" />
+            );
+          })
+        }
+      </ul>
+    </div>
+  </section>
+
+  <section class="more-from-newsroom">
+    <div class="section-content">
+      <h2 class="section-head">更多文章</h2>
+   
+
+      <ul role="list" class="section-tiles">
+
+        {
+          // tile-2up
+          allPosts.slice(0, 6).map((post) => {
+            return (
+              <MoreTile title={post.frontmatter.title} href={post.url} date={post.frontmatter.pubDate} tags={post.frontmatter.tags} cover={post.frontmatter.cover.url} />
+            );
+          })
+        }
+      </ul>
+      <div class="view-archive-wrapper">
+        <a href="/archive" class="cta-primary-light" data-analytics-region="router" data-analytics-title="view archive">阅读历史文章</a>
+      </div>
+    </div>
+  </section>
+
+  <script is:inline>
+    document.addEventListener("DOMContentLoaded", function () {
+      var script = document.createElement("script");
+      script.src = "/static/js/animation.js";
+      document.head.appendChild(script);
+
+      script.onload = function () {
+        console.log("lazyload.js loaded");
+        // when layout is loaded, load the images
+        initImage();
+      };
+    });
+  </script>
+</BaseLayout>
