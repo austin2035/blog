@@ -1,7 +1,13 @@
 ---
 import { formatDateV2 } from "../utils";
-const { posts } = Astro.props;
-posts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));
+const { posts, tag } = Astro.props;
+
+if (tag === "数据结构") {
+  posts.sort((b, a) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));
+} else {
+  posts.sort((a, b) => Date.parse(b.frontmatter.pubDate) - Date.parse(a.frontmatter.pubDate));
+}
+
 ---
 
 <ul>

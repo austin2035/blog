@@ -13,7 +13,7 @@ const dateFormated = formatDate(pubDate);
 
 <html lang="zh-CN" dir="ltr" class="js no-touch progressive-image no-reduced-motion progressive">
   <head>
-    <BaseHead title={`${title} - ${SITE_TITLE}`} description={description} image={frontmatter.cover.square} />
+    <BaseHead title={`${title} - ${SITE_TITLE}`} description={description} image={frontmatter.cover.url} />
   </head>
   <body class:list={["page-article", { "theme-dark": frontmatter.theme === "dark" }]}>
     <Header />

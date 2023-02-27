@@ -5,15 +5,15 @@ pubDate: 2022-04-17
 description: '从Go源码分析切片的扩容机制。'
 author: 'Austin'
 cover:
-    url: 'https://lookcos.cn/usr/uploads/2023/02/1277661091.png'
-    square: 'https://lookcos.cn/usr/uploads/2023/02/1277661091.png'
+    url: 'https://pic.lookcos.cn/i/usr/uploads/2023/02/1277661091.png'
+    square: 'https://pic.lookcos.cn/i/usr/uploads/2023/02/1277661091.png'
     alt: 'cover'
 tags: ["源码研究", "标准库", "golang", "slice"]
 theme: 'dark'
 featured: false
 ---
 
-![golang 吉祥物](https://lookcos.cn/usr/uploads/2023/02/1277661091.png)
+![golang 吉祥物](https://pic.lookcos.cn/i/usr/uploads/2023/02/1277661091.png)
 
 Go 1.18.1的源码大小为439Mib
 
@@ -105,7 +105,7 @@ nums = append(nums, 2, 3, 4)
 
 大致规则如下：
 
-![https://lookcos.cn/usr/uploads/2022/04/573066505.png](https://lookcos.cn/usr/uploads/2022/04/573066505.png)
+![https://pic.lookcos.cn/i/usr/uploads/2022/04/573066505.png](https://pic.lookcos.cn/i/usr/uploads/2022/04/573066505.png)
 
 其中,当扩容前容量 >= 256时，会按照公式进行扩容，
 
