@@ -1,5 +1,5 @@
-export const SITE_TITLE = `Austin's Blog`;
-export const SITE_DESCRIPTION = 'Austin Site Description';
+export const SITE_TITLE = `驭风笔记`;
+export const SITE_DESCRIPTION = '驭风笔记，分享我读过的书、学过的技术、遇见的人等。';
 export const SITE_EMAIL = 'no.sql@qq.com'
-export const SITE_NAME = 'astro-blog.qum.cc';
-export const SITE_URL = "https://astro-blog.qum.cc";
+export const SITE_NAME = 'yufengbiji.com';
+export const SITE_URL = "https://yufengbiji.com";
