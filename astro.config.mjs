@@ -100,7 +100,7 @@ function pipeline() {
     () => (tree) => {
       for (let i = 0; i < tree.children.length; i++) {
         let node = tree.children[i];
-        if (node.type === "element" && ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', "ul"].includes(node.tagName)) {
+        if (node.type === "element" && ['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', "ul", "ol"].includes(node.tagName)) {
 
           let next = tree.children[i + 1];
           let nodes = [node];
