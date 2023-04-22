@@ -1,7 +1,11 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 ---
-
+<style>
+  img.rewardme {
+    width: 200px;
+}
+</style>
 <BaseLayout primaryTitle="关于">
   <section class="archive">
     <div class="section-content section-tag">
@@ -30,6 +34,13 @@ import BaseLayout from "../layouts/BaseLayout.astro";
         </div>
       </div>
 
+      <div class="archive-tag">
+        <h2 class="tag-header">赞赏我</h2>
+        <p>如果你觉得我的文章对你有益，或者我的作品还不错，👏🏻欢迎打赏。</p>
+        <div class="tag-post-list">
+          <img src="/rewardme.jpeg" class="rewardme" alt="赞赏码">
+        </div>
+      </div>
     </div>
   </section>
 </BaseLayout>
