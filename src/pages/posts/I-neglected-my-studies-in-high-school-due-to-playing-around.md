@@ -5,8 +5,8 @@ pubDate: 2023-12-21
 description: '以初中排名前30的成绩考入省级高中重点班，为何最终却只能考入三本？聊聊我玩废的高中生涯篇。'
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/2023/12/21/islyjy.jpg'
-    square: 'https://pic.lookcos.cn/i/2023/12/21/io9k96.jpg'
+    url: 'https://pic.lookcos.cn/i/2023/12/21/uayrhk.jpg'
+    square: 'https://pic.lookcos.cn/i/2023/12/21/uayrhk.jpg'
     alt: 'cover'
 tags: ["经验分享", "思考", "成长"]
 theme: 'dark'
