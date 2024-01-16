@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '2014年1月15日开户香港汇丰(HSBC HK)与中银香港(BocHK)记录与攻略'
+title: '2024年1月15日开户香港汇丰(HSBC HK)与中银香港(BocHK)记录与攻略'
 pubDate: 2024-01-16
 description: '2024年1月15日，香港汇丰银行与中银香港开户记录与攻略，希望对大家有所帮助。'
 author: 'Austin'
