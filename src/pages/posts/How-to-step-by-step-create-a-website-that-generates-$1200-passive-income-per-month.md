@@ -22,7 +22,7 @@ featured: true
 
 打开 @ahrefs 的免费关键词生成器。[keyword-generator](https://ahrefs.com/keyword-generator)
 
-## 2. 整天输入关键词，直到你找到以下内容
+## 2. 花费一整天输入关键词，直到你找到以下内容
 
 - 关键词难度（KD）小于20。
 - 搜索量>500
