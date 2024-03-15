@@ -103,7 +103,10 @@ featured: true
 
 到这里就是全流程了，如果去到一家分行不行，可以去下一家。没有去过香港的朋友，做好充分的准备再去。
 
-我建了一个群，免费帮助那些想要购买港美股的朋友。提供赴港开卡指导，且群内有长桥官方人士，指导港美股开户入金等。有需要的朋友可以进。
+我建了一个群，免费帮助那些想要购买港美股的朋友。提供赴港开卡指导，**或者内地开港卡指导**。
+群内有长桥官方人士，指导港美股开户入金等。有需要的朋友可以进。
 
-![开户群|mini](https://pic.lookcos.cn/i/2024/03/04/pgy8u7.jpg)
+使用我的邀请链接开户，除了领取自身奖励外，还可以与我瓜分我的邀请奖励。
+
+[https://link.longbridge.cn/KOudEB?channel=HB100006&invite-code=BJVLJR](https://link.longbridge.cn/KOudEB?channel=HB100006&invite-code=BJVLJR)
 
