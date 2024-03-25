@@ -1,0 +1,183 @@
+---
+layout: '../../layouts/MarkdownPost.astro'
+title: '新加坡华侨银行 0门槛开户教程，使用APP在家申请，点击就送'
+pubDate: 2024-03-25
+description: ''
+author: 'Austin'
+cover:
+    url: 'https://pic.lookcos.cn/i/2024/03/25/ixeb45.png'
+    square: 'https://pic.lookcos.cn/i/2024/03/25/ixeb45.png'
+    twitter: 'https://pic.lookcos.cn/i/2024/03/25/ixeb45.png'
+    alt: 'cover'
+tags: ["分享", "经验", "新加坡华侨银行", "OCBC", "银行开户"]
+theme: 'light'
+featured: true
+---
+
+### OCBC 简介
+
+OCBC 全称是新加坡华侨银行，是新加坡第二大银行。曾连续多年被评为“全球最安全银行”前三名，本文会介绍一下OCBC的开户条件、流程、手续费等。
+
+下面是开户流程。拿不准的可以加我微信 **no-sql**，可以免费咨询境外银行开户、港美股开户等问题。
+
+### 所需材料
+
+- 有效期大于6个月的护照
+- 有NFC功能的手机 （扫描护照内置芯片使用）
+- 有效期内的身份证（需要拍摄身份证正面）
+- 大陆地区的手机号码（接收验证码使用）
+- 半年内充值超过 1000 SGD 用于激活账户（顺便领取现金奖励）
+
+### 1. APP 下载
+
+安卓有条件的可以使用 Google Play 搜索OCBC，下载 OCBC Digital - Mobile。iOS直接商店搜索。
+
+没有谷歌 Play的可以试试huawei商店，或者自己手机自带的商店。
+
+下面是官方下载二维码：
+
+![OCBC下载|mini](https://pic.lookcos.cn/i/2024/03/25/h2hyam.png)
+
+### 2. 进入开户流程
+
+准备好所需材料，开始进入开户流程。
+
+打开APP 选择简体中文。如果没有弹出，可以点击右上角来选择语言。
+
+![1|](https://pic.lookcos.cn/i/2024/03/25/hdqox0.jpg)
+
+点击 【注册成为新客户】
+
+![2|](https://pic.lookcos.cn/i/2024/03/25/hdqrfz.jpg)
+
+选择第二项 【持电子护照的外国人】
+
+![3|](https://pic.lookcos.cn/i/2024/03/25/hdqm0m.jpg)
+
+点击 【开始申请】
+
+![4|](https://pic.lookcos.cn/i/2024/03/25/hdqn0a.jpg)
+
+输入介绍人代码 【RMGR37JB】，可以获得 15 新币，大约80元人民币的奖励。  
+
+不写的话没有任何奖励。
+
+![5|](https://pic.lookcos.cn/i/2024/03/25/hdqlnn.jpg)
+
+国家代码点进去选择中国大陆 +86，手机号和邮箱输入自己的即可。
+
+![6|](https://pic.lookcos.cn/i/2024/03/25/hdqu7d.jpg)
+
+这一步填写短信验证码。  
+
+![7|](https://pic.lookcos.cn/i/2024/03/25/hdqwbx.jpg)
+
+点击下一步，扫描护照条形码。这一步，把护照打开到有人像的那一页，然后在光线充足的地方使用手机扫描。
+需要一些耐心，扫描可能不会很快，手拿稳多试试即可。
+
+![8|](https://pic.lookcos.cn/i/2024/03/25/hdqwsb.jpg)
+
+NFC读取护照芯片。护照合上，手机背面贴在护照正面上，开始读取。  
+缓缓移动手机，调整到可以读取的状态。
+
+![9|](https://pic.lookcos.cn/i/2024/03/25/hdqynd.jpg)
+
+APP读取的时候会跳出检测，这时候不要动，等待读取完毕。  
+同样需要一些耐心，多试试，不难。
+
+![10|](https://pic.lookcos.cn/i/2024/03/25/hdqy0u.jpg)
+
+给身份证拍个照。点击【下一个】开始给身份证正面拍照。
+
+![11|](https://pic.lookcos.cn/i/2024/03/25/hdqx6g.jpg)
+
+是时候自拍了。这一步开始人脸验证。不要裸露上身，点击【下一个】开始人脸识别。
+
+![12|](https://pic.lookcos.cn/i/2024/03/25/hdqwak.jpg)
+
+这些信息填完之后，点击【提供我的详细信息】，开始填写自身国家、职业、公司等详细信息。
+
+![13|](https://pic.lookcos.cn/i/2024/03/25/hdqwbn.jpg)
+
+首先是检查你之前填写的姓名和邮箱等信息。
+
+![14|](https://pic.lookcos.cn/i/2024/03/25/hdqzk8.jpg)
+
+工作类型，选择【受雇】或者【自雇】。
+
+![15|](https://pic.lookcos.cn/i/2024/03/25/hdqvp8.jpg)
+
+填写税务信息。纳税人识别号为自己身份证号。
+
+![16|](https://pic.lookcos.cn/i/2024/03/25/hdr5l0.jpg)
+
+这里选择 【不，我未曾/没有担任重要的公职,也不是一名已/被委托担任公共职务的公共职者
+的家庭成员或关系亲近的人】
+
+![17|](https://pic.lookcos.cn/i/2024/03/25/hdr4j3.jpg)
+
+勾选电子邮件和短信，☑️勾选 【本人确认懂英文，并同意以英文形式接收我的交易通知。】
+然后点击 【提交】，等待审批即可。一般是在线秒批（应该是机审）
+
+![18|](https://pic.lookcos.cn/i/2024/03/25/hdr5wt.jpg)
+
+到这一步就注册好了。然后设置账户，包括登录名和密码之类的。
+
+![19|](https://pic.lookcos.cn/i/2024/03/25/hdr6rk.jpg)
+
+创建登录账户，记牢。以后登录就靠这个。
+
+![20|](https://pic.lookcos.cn/i/2024/03/25/hdr1pm.jpg)
+
+启用数字安全令牌，点击启用。这一步是开启短信验证码功能。
+
+![21|](https://pic.lookcos.cn/i/2024/03/25/hdr3gj.jpg)
+
+到这里开启成功。
+
+![22|](https://pic.lookcos.cn/i/2024/03/25/hdr5bm.jpg)
+
+设置完成，会显示你的两个账户。分别是美元账户和新币账户。点击开始即可进入账户。
+
+![23|](https://pic.lookcos.cn/i/2024/03/25/hdr2bu.jpg)
+
+### 账户充值
+
+OCBC对于我们大陆来说属于离岸账户，是个境外银行。所以我们入金的时候需要从国内银行跨境汇款过去。
+一般流程是，购汇然后再跨境汇款（转账）。这个过程资料要认真填写。
+
+
+下面是给这个账户汇款可能用到的信息：
+
+收款行所在地选新加坡，收款行地址：63 Chulia Strel #10-00, OCBC Centre East, Singapore 049514 ，地区选新加坡，SWIFT代码输入OCBCSGSGXXX ，代码输入后银行名址和城市就自动加载出来了。
+
+不同银行跨境汇款对比图
+
+![跨境汇款手续费等|](https://pic.lookcos.cn/i/2024/03/25/ieyjrp.jpg)
+
+### 关于管理费  
+
+所有账户首年免管理费，账户超过6个月没余额也不活跃，会自动关闭，也可以找客服申请关户，开户6个月内关户需要收取 30 新元的关户费,第 2 年开始的管理费。
+
+STS 账户: 外国人日均存款不超过2万新元 收取 10 新元/月。
+
+GSA 账户: 不需要管理费。  
+
+360 账户: 外国人日均存款不超过 3000 新元 收取 2 新元/月
+
+MSA 账户(Monthly Savings Account): 日均存款不超过 500 新元 收取 2 新元/月
+
+目前比较合适的保号方案是保留 GSA 账户 +360 账户或 MSA 账户 。MSA 账户需要到网页版OCBC 申请开通，App 没入口  
+
+### 账户用途
+
+最方便的用途应该是开通长桥证券之类的，用来炒美股。刚好最近长桥证券有一个活动，开户入金3000新币，港美股永久免佣+72新币股票现金卡+5US期权券。72新币大约385人民币。
+
+<p style="color:red;">使用我的开户链接开户，除了获得自身开户奖励，还可以与我瓜分我的邀请奖励。同时进入我的美股交易群，得到更多干货。</p>
+
+我的微信是：**no-sql**，不管你是否使用我的开户链接，都欢迎加我进去开户群，群内有长桥官方人士指导美股开户全流程。  
+
+邀请码: BJVLJR, 长桥新加坡开户链接：
+
+[https://activity.lbkrs.com/pages/longbridge/7415/index.html?app_id=longbridge&org_id=1&channel=HB100006&account_channel=lb&lang=zh-CN&invite-code=BJVLJR](https://activity.lbkrs.com/pages/longbridge/7415/index.html?app_id=longbridge&org_id=1&channel=HB100006&account_channel=lb&lang=zh-CN&invite-code=BJVLJR
+)
