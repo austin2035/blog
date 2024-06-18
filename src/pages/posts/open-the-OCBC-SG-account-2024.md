@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '新加坡华侨银行 0门槛开户教程，使用APP在家申请，点击就送'
+title: '新加坡华侨银行(OCBC) 0门槛开户教程，使用APP在家申请，点击就送'
 pubDate: 2024-03-25
 description: ''
 author: 'Austin'
