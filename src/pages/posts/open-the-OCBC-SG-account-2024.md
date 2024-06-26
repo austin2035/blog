@@ -161,5 +161,4 @@ MSA 账户(Monthly Savings Account): 日均存款不超过 500 新元 收取 2 �
 
 邀请码: BJVLJR, 长桥新加坡开户链接：
 
-[https://activity.lbkrs.com/pages/longbridge/7415/index.html?app_id=longbridge&org_id=1&channel=HB100006&account_channel=lb&lang=zh-CN&invite-code=BJVLJR](https://activity.lbkrs.com/pages/longbridge/7415/index.html?app_id=longbridge&org_id=1&channel=HB100006&account_channel=lb&lang=zh-CN&invite-code=BJVLJR
-)
+[https://activity.lbmkt.ing/pages/longbridge/7415/index.html?app_id=longbridge&org_id=1&account_channel=lb&lang=zh-CN&channel=HB100006&invite-code=BJVLJR](https://activity.lbmkt.ing/pages/longbridge/7415/index.html?app_id=longbridge&org_id=1&account_channel=lb&lang=zh-CN&channel=HB100006&invite-code=BJVLJR)
