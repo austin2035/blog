@@ -106,11 +106,12 @@ featured: true
 我建了一个群，免费帮助那些想要购买港美股的朋友。提供赴港开卡指导，**或者内地开港卡指导**。  
 我的微信号码是 **no-sql**，加我微信，拉你进群，也可以扫码加群。
 
-![开户群聊|mini](https://image.5050520.xyz/i/2024/08/06/12bl3tm.jpg)
+![开户群聊|mini](https://image.5050520.xyz/i/2024/08/14/mgpzwm.jpg)
 
 群内有长桥官方人士，指导港美股开户入金等。有需要的朋友可以进。  
 
 使用我的邀请链接开户，除了领取自身奖励外，还可以与我瓜分我的邀请奖励。  
 
 [https://link.longbridge.cn/KOudEB?channel=HB100006&invite-code=BJVLJR](https://link.longbridge.cn/KOudEB?channel=HB100006&invite-code=BJVLJR)
+
 

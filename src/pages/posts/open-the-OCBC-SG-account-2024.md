@@ -151,7 +151,7 @@ MSA 账户(Monthly Savings Account): 日均存款不超过 500 新元 收取 2 �
 
 我建立了一个开户交流群，方便大家交流港美股开户。群内有长桥官方人士，解答各类开户、出入金问题。
 
-![开户群聊|mini](https://image.5050520.xyz/i/2024/08/06/12bl3tm.jpg)
+![开户群聊|mini](https://image.5050520.xyz/i/2024/08/14/mgpzwm.jpg)
 
 ### 可选项
 
