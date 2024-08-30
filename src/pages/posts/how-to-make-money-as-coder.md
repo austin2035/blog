@@ -2,7 +2,7 @@
 layout: '../../layouts/MarkdownPost.astro'
 title: '开发者赚钱的 10 种方法'
 pubDate: 2024-08-30
-description: '介绍一些开发者可以做到的转钱方法'
+description: '介绍一些开发者可以做到的搞钱方法'
 author: 'Austin'
 cover:
     url: 'https://image.5050520.xyz/i/2024/08/30/w1zynv.png'
