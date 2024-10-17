@@ -5,15 +5,15 @@ pubDate: 2021-11-13
 description: '二叉搜索树（Binary Search Tree， BST），也称为二叉查找树、二叉有序树或者排序二叉树。'
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
-    square: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
+    url: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
+    square: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
     alt: 'cover'
 tags: ["数据结构", "C", "二叉树", "二叉搜索树"]
 theme: 'light'
 featured: true
 ---
 
-![数据结构之二叉搜索树](https://pic.lookcos.cn/i/2023/02/27/1194dq4.png)
+![数据结构之二叉搜索树](https://image.5050520.xyz/i/2023/02/27/1194dq4.png)
 
 ### 什么是二叉搜索树？
 
@@ -31,7 +31,7 @@ featured: true
 
 假设有如下二叉搜索树：
 
-![](https://pic.lookcos.cn/i/usr/uploads/2021/12/4071927410.png)
+![](https://image.5050520.xyz/i/usr/uploads/2021/12/4071927410.png)
 
 不难看出：
 
@@ -100,7 +100,7 @@ bst_node *bst_create_node(int key) {
 - 指针移动到节点5， key > 5， 要搜索的节点肯定在节点5的右子树；
 - 指针移动到节点7，key = 7，这便是我们要找的节点。
 
-![二叉搜索树的搜索过程](https://pic.lookcos.cn/i/usr/uploads/2021/12/2168214795.png)
+![二叉搜索树的搜索过程](https://image.5050520.xyz/i/usr/uploads/2021/12/2168214795.png)
 
 C语言实现如下：
 
@@ -156,13 +156,13 @@ bst_node *bst_search_node(bst_node *node, int type, int key)
 
 显然，要真搜索还真搜索不到，但是我说了，是假如有节点15，那一路走下去，应该是节点8 -> 节点10 -> 节点14。
 
-![二叉树的插入](https://pic.lookcos.cn/i/usr/uploads/2021/12/321526085.png)
+![二叉树的插入](https://image.5050520.xyz/i/usr/uploads/2021/12/321526085.png)
 
 去除假设来看，节点14是叶子节点，没有左右子树，那么我们把要插入的节点15放到节点14的右子树不就行了？  
 
 所以，实际上，我们是在搜索要插入节点的父节点，返回该父节点，然后再接上要插入的节点就行了。
 
-![动态演示|inline](https://pic.lookcos.cn/i/usr/uploads/2021/12/2986928687.gif)
+![动态演示|inline](https://image.5050520.xyz/i/usr/uploads/2021/12/2986928687.gif)
 
 C语言实现如下(其中找到要插入节点的父节点，已经在上面实现)：
 
@@ -205,11 +205,11 @@ bst *bst_insert_node(bst *bst, int key)
 
 删除节点14（情况2）动图演示：
 
-![删除节点 14|inline](https://pic.lookcos.cn/i/usr/uploads/2021/12/711358893.gif)
+![删除节点 14|inline](https://image.5050520.xyz/i/usr/uploads/2021/12/711358893.gif)
 
 删除节点3（情况3）动图演示：
 
-![删除节点 3|inline](https://pic.lookcos.cn/i/usr/uploads/2021/12/3764915767.gif)
+![删除节点 3|inline](https://image.5050520.xyz/i/usr/uploads/2021/12/3764915767.gif)
 
 下面是具体代码实现：
 

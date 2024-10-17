@@ -5,15 +5,15 @@ pubDate: 2021-11-12
 description: '树(tree)是一类比较重要的非线性的数据结构。之所以叫“树”，是因为它看起来像是一棵倒挂的树，根朝上，叶朝下。'
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
-    square: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
+    url: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
+    square: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
     alt: 'cover'
 tags: ["数据结构", "C", "二叉树"]
 theme: 'light'
 featured: true
 ---
 
-![数据结构之树](https://pic.lookcos.cn/i/2023/02/27/1194dq4.png)
+![数据结构之树](https://image.5050520.xyz/i/2023/02/27/1194dq4.png)
 
 ### 树
 
@@ -25,7 +25,7 @@ featured: true
 
 ### 树的相关概念
 
-![](https://pic.lookcos.cn/i/usr/uploads/2021/11/2764483793.png)
+![](https://image.5050520.xyz/i/usr/uploads/2021/11/2764483793.png)
 
 以上图为准，下面介绍相关概念：
 
@@ -55,7 +55,7 @@ featured: true
 
 下图是一个以节点A为根的二叉树：
 
-![](https://pic.lookcos.cn/i/usr/uploads/2021/11/3362715430.png)
+![](https://image.5050520.xyz/i/usr/uploads/2021/11/3362715430.png)
 
 #### 再提树的基本哲学
 
@@ -177,8 +177,8 @@ ABD##E##CF##G##
 
 最后我们成功创建了一颗如下的二叉树：  
 
-![tree_create](https://pic.lookcos.cn/i/usr/uploads/2021/11/1373859208.png)
-![tree_link.png](https://pic.lookcos.cn/i/usr/uploads/2021/11/1740916372.png)
+![tree_create](https://image.5050520.xyz/i/usr/uploads/2021/11/1373859208.png)
+![tree_link.png](https://image.5050520.xyz/i/usr/uploads/2021/11/1740916372.png)
 
 ### 递归法遍历二叉树  
 

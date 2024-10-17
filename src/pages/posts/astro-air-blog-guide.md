@@ -5,15 +5,15 @@ pubDate: 2023-2-28
 description: '作者通过二十张图来一步步教你搭建一个高颜值、免费、速度快的个人博客网站。'
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/2023/02/28/hey1iq.png'
-    square: 'https://pic.lookcos.cn/i/2023/02/28/hey1iq.png'
+    url: 'https://image.5050520.xyz/i/2023/02/28/hey1iq.png'
+    square: 'https://image.5050520.xyz/i/2023/02/28/hey1iq.png'
     alt: 'cover'
 tags: ["技术", "Blog", "Astro"]
 theme: 'light'
 featured: true
 ---
 
-![Astro Logo](https://pic.lookcos.cn/i/2023/02/28/hey1iq.png)
+![Astro Logo](https://image.5050520.xyz/i/2023/02/28/hey1iq.png)
 
 ## 什么是 Astro ?
 
@@ -40,15 +40,15 @@ Astro JS 是一个用于构建高性能、内容为中心的网站的 web 框架
 首先你需要一个 GitHub 账号，如果你没有的话，可以点击 [这里](https://github.com) 注册一个。
 打开 [Astro Air Blog](https://github.com/austin2035/astro-air-blog) 仓库，点击右上角的 `Use this template` 按钮。
 
-![使用模板创建你的博客仓库|inline](https://pic.lookcos.cn/i/2023/02/27/qhv71p.png)
+![使用模板创建你的博客仓库|inline](https://image.5050520.xyz/i/2023/02/27/qhv71p.png)
 
 点击 `Create repository from template` 按钮，然后输入你的仓库名称， 就可以创建你的博客仓库了。
 
-![设置仓库信息|inline](https://pic.lookcos.cn/i/2023/02/27/qhv0k0.png)
+![设置仓库信息|inline](https://image.5050520.xyz/i/2023/02/27/qhv0k0.png)
 
 ## 第二步：克隆你的博客仓库到本地
 
-![3](https://pic.lookcos.cn/i/2023/02/27/qhv4gl.png)
+![3](https://image.5050520.xyz/i/2023/02/27/qhv4gl.png)
 
 点击 `Code` 按钮，复制仓库地址。有两种方式，一种是使用 SSH，一种是使用 HTTPS (推荐新手使用)，这里我使用的是 SSH，如果你不知道怎么使用 SSH，可以点击 [这里](https://docs.github.com/cn/github/authenticating-to-github/connecting-to-github-with-ssh) 查看。
 
@@ -76,7 +76,7 @@ npm install
 npm run dev
 ```
 
-![本地调试服务的启动|inline](https://pic.lookcos.cn/i/2023/02/27/qhv6fk.png)
+![本地调试服务的启动|inline](https://image.5050520.xyz/i/2023/02/27/qhv6fk.png)
 
 如图所示，本地调试服务启动成功，打开浏览器，输入 `http://localhost:3000`，就可以看到你的博客了。并且修改你的博客内容，浏览器会自动刷新。
 
@@ -84,19 +84,19 @@ npm run dev
 
 在你的博客中，你可以看到有很多篇文章，这些篇文章的内容都是我写好的，你可以直接修改它们的内容，也可以删除它们，然后添加你自己的文章。
 
-![已经存在的文章|inline](https://pic.lookcos.cn/i/2023/02/27/qhv62a.png)
+![已经存在的文章|inline](https://image.5050520.xyz/i/2023/02/27/qhv62a.png)
 
 ## 第六步：了解项目结构
 
 在你的博客仓库中，你可以看到有很多文件，这些文件都是用来干什么的呢？请查看这张图片。
 
-![项目结构|inline](https://pic.lookcos.cn/i/2023/02/27/qhv3dz.png)
+![项目结构|inline](https://image.5050520.xyz/i/2023/02/27/qhv3dz.png)
 
 ## 第七步：了解文章的结构
 
 打开任意一篇文章，你可以看到有很多元数据，这些元数据都是用来设置什么的呢？请查看这张图片。
 
-![文章的结构](https://pic.lookcos.cn/i/2023/02/27/qhv4dn.png)
+![文章的结构](https://image.5050520.xyz/i/2023/02/27/qhv4dn.png)
 
 元数据的前后有三个连续的短横线，中间是元数据的内容。元数据的内容是由键值对组成的，键值对之间用冒号分隔，键值对之间用换行分隔。  
 
@@ -108,38 +108,38 @@ npm run dev
 
 在你的博客仓库中，你可以看到有一个 `consts.js` 文件，这个文件是用来设置博客网站的一些固定信息的。请查看图片对应的说明。
 
-![博客网站的固定信息](https://pic.lookcos.cn/i/2023/02/27/qhv31s.png)
+![博客网站的固定信息](https://image.5050520.xyz/i/2023/02/27/qhv31s.png)
 
 ## 第九步：提交你的修改
 
 到目前为止，我们都在本地修改博客的内容，但是这些修改并没有提交到 GitHub 上，所以别人是看不到你的修改的。接下来我们将把我们的修改提交到 GitHub 上。
 
-![所有的增加、删除、修改记录都可以在这里看到|inline](https://pic.lookcos.cn/i/2023/02/27/qhv6v0.png)
+![所有的增加、删除、修改记录都可以在这里看到|inline](https://image.5050520.xyz/i/2023/02/27/qhv6v0.png)
 
 我这里使用 VS Code 编辑器，你也可以使用其他编辑器，只要你熟悉就行。在 VS Code 中，我们可以看到有很多文件被修改了，这些文件就是我们刚刚修改的文件。接着我们把这些文件提交到 GitHub 上。
 点击加号，将所有文件添加到暂存区。然后在输入框中输入提交信息，最后点击 `提交` 按钮，将修改提交到本地仓库。
 
-![同步更改](https://pic.lookcos.cn/i/2023/02/27/qhvbmi.png)
+![同步更改](https://image.5050520.xyz/i/2023/02/27/qhvbmi.png)
 
 然后点击 `同步更改` 按钮，将修改推送到 GitHub 上。
 
 ## 第十步：查看你的 Github 仓库
 
-![可以看到，成功提交](https://pic.lookcos.cn/i/2023/02/27/qhveeh.png)
+![可以看到，成功提交](https://image.5050520.xyz/i/2023/02/27/qhveeh.png)
 
 ## 第十一步：将你的博客部署到 Vercel
 
 通过 vercle 可以将你的博客部署到云端，这样你就可以通过网址访问你的博客了。vercel 还是免费的，并且绑定之后，你的博客每次修改之后（本地 push 到Github 仓库之后），vercel 都会自动帮你部署。
 
-![通过 vercel 新建一个项目](https://pic.lookcos.cn/i/2023/02/27/qhvf3m.png)
+![通过 vercel 新建一个项目](https://image.5050520.xyz/i/2023/02/27/qhvf3m.png)
 
 登录 vercel 后，点击 `New Project` 按钮，将你的博客仓库导入到 vercel 中。
 
-![选择自己的博客仓库](https://pic.lookcos.cn/i/2023/02/27/qhvavy.png)
+![选择自己的博客仓库](https://image.5050520.xyz/i/2023/02/27/qhvavy.png)
 
 选择你的博客仓库，然后点击 `Import` 按钮。
 
-![配置项目的信息|inline](https://pic.lookcos.cn/i/2023/02/27/qhvcdn.png)
+![配置项目的信息|inline](https://image.5050520.xyz/i/2023/02/27/qhvcdn.png)
 
 配置项目的信息，包括项目的名称、项目的描述、项目的环境变量等。
 
@@ -156,7 +156,7 @@ npm run dev
 
 最后点击 `Deploy` 按钮，将你的博客部署到 vercel 中。
 
-![部署成功](https://pic.lookcos.cn/i/2023/02/27/qhvesf.png)
+![部署成功](https://image.5050520.xyz/i/2023/02/27/qhvesf.png)
 
 等待部署成功，然后点击 `Visit` 按钮，就可以看到你的博客了。
 
@@ -164,16 +164,16 @@ npm run dev
 
 这时候，你的博客已经可以通过 vercel 提供的网址访问了。
 
-![可以看到有一个默认的网址](https://pic.lookcos.cn/i/2023/02/27/qhvagk.png)
+![可以看到有一个默认的网址](https://image.5050520.xyz/i/2023/02/27/qhvagk.png)
 
 但是这个网址不是很好记，所以我们需要将它绑定到自己的域名上。这样，我们就可以通过自己的域名来访问自己的博客了。
 点击 `Visit Domains` 按钮，进入域名设置页面。
 
-![添加自己的域名](https://pic.lookcos.cn/i/2023/02/27/qhvcy4.png)
+![添加自己的域名](https://image.5050520.xyz/i/2023/02/27/qhvcy4.png)
 
 输入你想要绑定的域名，然后点击 `Add` 按钮，将域名添加到 vercel 中。
 
-![21](https://pic.lookcos.cn/i/2023/02/27/qhv96q.png)
+![21](https://image.5050520.xyz/i/2023/02/27/qhv96q.png)
 
 按照提示，将域名的 DNS 解析指向 vercel 的 DNS 服务器，然后点击 `Continue` 按钮。
 等到域名的 DNS 解析生效之后，vercle 会自动帮你将域名绑定到你的博客上，并且生成一个 SSL 证书。这时候，你就可以通过你的域名来访问你的博客了。
@@ -185,7 +185,7 @@ npm run dev
 文章的展示布局有三种，第一种是一行展示一篇文章，第二种是一行展示两篇文章，第三种是一行展示三篇文章。
 如下入所示，我们可以设置这三种布局的文章数量。
 
-![首页中文章的展示设置](https://pic.lookcos.cn/i/2023/02/27/qhvdcq.png)
+![首页中文章的展示设置](https://image.5050520.xyz/i/2023/02/27/qhvdcq.png)
 
 这里的 `allPosts` 表示所有文章， 而 `slice(0, 1)` 表示从第 1 篇文章开始，到 第 2 篇文章结束（但是不包括第 2 篇文章）。这样，我们就设置了第一种布局是展示了最新文章。
 
@@ -195,7 +195,7 @@ npm run dev
 
 **更多文章**的设置，也是同样的道理。
 
-![首页中“更多文章”的设置](https://pic.lookcos.cn/i/2023/02/27/qhv984.png)
+![首页中“更多文章”的设置](https://image.5050520.xyz/i/2023/02/27/qhv984.png)
 
 ## 进阶设置之二：设置目录
 

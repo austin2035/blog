@@ -5,9 +5,9 @@ pubDate: 2024-03-25
 description: ''
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/2024/03/25/ixeb45.png'
-    square: 'https://pic.lookcos.cn/i/2024/03/25/ixeb45.png'
-    twitter: 'https://pic.lookcos.cn/i/2024/03/25/ixeb45.png'
+    url: 'https://image.5050520.xyz/i/2024/03/25/ixeb45.png'
+    square: 'https://image.5050520.xyz/i/2024/03/25/ixeb45.png'
+    twitter: 'https://image.5050520.xyz/i/2024/03/25/ixeb45.png'
     alt: 'cover'
 tags: ["分享", "经验", "新加坡华侨银行", "OCBC", "银行开户"]
 theme: 'light'
@@ -129,7 +129,7 @@ OCBC对于我们大陆来说属于离岸账户，是个境外银行。所以我�
 
 不同银行跨境汇款对比图
 
-![跨境汇款手续费等|](https://pic.lookcos.cn/i/2024/03/25/ieyjrp.jpg)
+![跨境汇款手续费等|](https://image.5050520.xyz/i/2024/03/25/ieyjrp.jpg)
 
 ### 关于管理费  
 

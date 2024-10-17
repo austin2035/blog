@@ -5,15 +5,15 @@ pubDate: 2021-11-14
 description: '平衡二叉树(Balanced Binary Tree)，是对二叉搜索树的改进。'
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
-    square: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
+    url: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
+    square: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
     alt: 'cover'
 tags: ["数据结构", "C", "平衡二叉树"]
 theme: 'light'
 featured: true
 ---
 
-![数据结构之平衡二叉树](https://pic.lookcos.cn/i/2023/02/27/1194dq4.png)
+![数据结构之平衡二叉树](https://image.5050520.xyz/i/2023/02/27/1194dq4.png)
 
 ## 什么是平衡二叉树？
 
@@ -34,11 +34,11 @@ featured: true
 
 当我们插入一组升序数据[1, 3, 5, 7, 9]，BST1是这样的：
 
-![BST1|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/253342560.png)
+![BST1|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/253342560.png)
 
 当我们插入一组降序数据[10, 8, 6, 4,  2]，BST2是这样的：
 
-![BST2|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/2188928686.png)
+![BST2|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/2188928686.png)
 
 那么请问这两棵树是二叉搜索树吗？的确是，完全符合二叉搜索树的性质。但毫无疑问，看上去更像是个链表。确实，当插入一组有序数据时，二叉搜索树退化成了链表，此时的查找效率退化为O(N)。
 
@@ -48,13 +48,13 @@ featured: true
 
 如下由一棵平衡二叉树：
 
-![一颗平衡二叉树|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/3398053130.png)
+![一颗平衡二叉树|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/3398053130.png)
 
 其中H表示高度(height)，L表示左子树高度(Left height)，R表示右子树高度(Right height), BF是平衡因子(Balance Factor, BF=L-R)。
 
 如下有一棵非二叉平衡树：
 
-![平衡二叉树|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/2734824297.png)
+![平衡二叉树|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/2734824297.png)
 
 其中根节点的平衡因子绝对值大于1，出现了“失衡”。
 
@@ -66,7 +66,7 @@ featured: true
 
 相继插入，2和1后，树是这样的：
 
-![相继插入，2和1后，树是这样的|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/1979666009.png)
+![相继插入，2和1后，树是这样的|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/1979666009.png)
 
 （图5）
 
@@ -76,7 +76,7 @@ featured: true
 
 如下图的一棵非二叉平衡树，
 
-![平衡二叉树|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/3904874642.png)
+![平衡二叉树|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/3904874642.png)
 
 （图6）
 
@@ -193,11 +193,11 @@ avl_node *avl_rotate_ll(avl_node *node)
 
 找到最小不平衡子树（根节点31）后右旋。我们把最小不平衡子树的左子树作为新的top节点。
 
-![动图演示|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/2710011022.gif)
+![动图演示|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/2710011022.gif)
 
 下图演示了最小不平衡子树的根不是二叉树的根，也即最小不平衡子树是二叉树的“真子树”（情况2）。类似于集合中的真子集。
 
-![动图演示|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/1195782005.gif)
+![动图演示|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/1195782005.gif)
 
 ### RR型
 
@@ -218,11 +218,11 @@ avl_node *avl_rotate_rr(avl_node *node)
 
 情况1：
 
-![情况1|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/335641130.gif)
+![情况1|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/335641130.gif)
 
 情况2：
 
-![情况2|inine](https://pic.lookcos.cn/i/usr/uploads/2022/01/3773463504.gif)
+![情况2|inine](https://image.5050520.xyz/i/usr/uploads/2022/01/3773463504.gif)
 
 ### LR型
 
@@ -230,15 +230,15 @@ avl_node *avl_rotate_rr(avl_node *node)
 
 相继插入31，25后没问题，接着插入28:
 
-![接着插入28|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/310830524.png)
+![接着插入28|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/310830524.png)
 
 此时出现了以节点31为根节点的不平衡子树，既不是LL型，也不是RR型，而是LR型。需要进行两次操作，第一次对根节点的左子树左旋：
 
-![https://pic.lookcos.cn/i/usr/uploads/2022/01/69984455.png](https://pic.lookcos.cn/i/usr/uploads/2022/01/69984455.png)
+![https://image.5050520.xyz/i/usr/uploads/2022/01/69984455.png](https://image.5050520.xyz/i/usr/uploads/2022/01/69984455.png)
 
 左旋后，可以发现，该子树变成了LL型，所以再对该子树进行右旋：
 
-![操作|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/1024347278.png)
+![操作|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/1024347278.png)
 
 代码很简单（适用所有LR情况）：
 
@@ -257,21 +257,21 @@ avl_node *avl_balance_lr(avl_node *node)
 
 插入前：
 
-![插入前|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/3568486191.png)
+![插入前|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/3568486191.png)
 
 插入时：
 
-![插入时|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/1303432145.png)
+![插入时|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/1303432145.png)
 
 如果插入的数据不是26，而是比28要大的数，那么此时应该插入在28的右子树，则为LR(R)型，不再演示。
 
 插入后：
 
-![插入后|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/3398837362.png)
+![插入后|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/3398837362.png)
 
 动图演示：
 
-![动态演示|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/2840198242.gif)
+![动态演示|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/2840198242.gif)
 
 ### RL型
 
@@ -288,21 +288,21 @@ avl_node *avl_balance_rl(avl_node *node)
 
 对于RL(L)型，插入前：
 
-![对于RL(L)型，插入前|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/1054202197.png)
+![对于RL(L)型，插入前|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/1054202197.png)
 
 插入时：
 
-![插入时|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/1090190851.png)
+![插入时|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/1090190851.png)
 
 如果插入的不是36，而是比40大的，比如43。那么应该插入在40的右子树，此时就是RL(R)型，不再演示。
 
 插入后：
 
-![插入后|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/859593372.png)
+![插入后|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/859593372.png)
 
 动图演示：
 
-![动图演示|inline](https://pic.lookcos.cn/i/usr/uploads/2022/01/2392874357.gif)
+![动图演示|inline](https://image.5050520.xyz/i/usr/uploads/2022/01/2392874357.gif)
 
 ### 不平衡的调整方法
 

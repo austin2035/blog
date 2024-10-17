@@ -5,15 +5,15 @@ pubDate: 2021-11-11
 description: '散列表也叫哈希表（Hash table），是根据关键字（key）而直接访问在内存存储位置的数据结构。 '
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
-    square: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
+    url: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
+    square: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
     alt: 'cover'
 tags: ["数据结构", "C", "C指针"]
 theme: 'light'
 featured: true
 ---
 
-![数据结构之哈希表](https://pic.lookcos.cn/i/2023/02/27/1194dq4.png)
+![数据结构之哈希表](https://image.5050520.xyz/i/2023/02/27/1194dq4.png)
 
 ### 哈希表的概念  
 
@@ -378,5 +378,5 @@ age: 18
 详见代码清单。
 
 
-  [1]: https://pic.lookcos.cn/i/usr/uploads/2021/11/3735377325.png
-  [2]: https://pic.lookcos.cn/i/usr/uploads/2021/11/3177806999.png
+  [1]: https://image.5050520.xyz/i/usr/uploads/2021/11/3735377325.png
+  [2]: https://image.5050520.xyz/i/usr/uploads/2021/11/3177806999.png

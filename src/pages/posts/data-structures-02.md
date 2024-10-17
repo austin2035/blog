@@ -5,15 +5,15 @@ pubDate: 2021-11-07
 description: '当你学会了用C语言描述单链表的时，后面的堆、栈、双向链表、哈希表等用C描述将不在话下。'
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
-    square: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
+    url: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
+    square: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
     alt: 'cover'
 tags: ["数据结构", "C", "链表"]
 theme: 'light'
 featured: true
 ---
 
-![数据结构之链表](https://pic.lookcos.cn/i/2023/02/27/1194dq4.png)
+![数据结构之链表](https://image.5050520.xyz/i/2023/02/27/1194dq4.png)
 
 ## 本节的重要性
 
@@ -253,8 +253,8 @@ int main()
 
 完整代码，详见代码清单。
 
-[1]: https://pic.lookcos.cn/i/usr/uploads/2021/11/1747607747.png
-[2]: https://pic.lookcos.cn/i/usr/uploads/2021/11/3633212832.png
-[3]: https://pic.lookcos.cn/i/usr/uploads/2021/11/2905050129.png
-[4]: https://pic.lookcos.cn/i/usr/uploads/2021/11/689852720.png
-[5]: https://pic.lookcos.cn/i/usr/uploads/2021/11/1797261647.png
+[1]: https://image.5050520.xyz/i/usr/uploads/2021/11/1747607747.png
+[2]: https://image.5050520.xyz/i/usr/uploads/2021/11/3633212832.png
+[3]: https://image.5050520.xyz/i/usr/uploads/2021/11/2905050129.png
+[4]: https://image.5050520.xyz/i/usr/uploads/2021/11/689852720.png
+[5]: https://image.5050520.xyz/i/usr/uploads/2021/11/1797261647.png

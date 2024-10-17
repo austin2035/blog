@@ -5,9 +5,9 @@ pubDate: 2024-01-16
 description: '2024年1月15日，香港汇丰银行与中银香港开户记录与攻略，希望对大家有所帮助。'
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/2024/01/16/gxcua7.jpg'
-    square: 'https://pic.lookcos.cn/i/2024/01/16/gxcua7.jpg'
-    twitter: 'https://pic.lookcos.cn/i/2024/01/16/h4i8lb.png'
+    url: 'https://image.5050520.xyz/i/2024/01/16/gxcua7.jpg'
+    square: 'https://image.5050520.xyz/i/2024/01/16/gxcua7.jpg'
+    twitter: 'https://image.5050520.xyz/i/2024/01/16/h4i8lb.png'
     alt: 'cover'
 tags: ["分享", "经验", "汇丰银行", "中银香港", "银行开户"]
 theme: 'light'
@@ -18,11 +18,11 @@ featured: true
 
 我办理这张卡，主要是为了收老外的钱。听说2月之后，政策可能会收紧，所以我就抓紧先办理一下。下面聊聊过程，以及我自己的攻略和看法。
 
-![当日开户，当日下卡|mini](https://pic.lookcos.cn/i/2024/01/16/hin8bb.jpg)
+![当日开户，当日下卡|mini](https://image.5050520.xyz/i/2024/01/16/hin8bb.jpg)
 
 ## 行程与交通工具的选择
 
-![汇丰银行上下班时间|mini](https://pic.lookcos.cn/i/2024/01/16/hin8np.jpg)
+![汇丰银行上下班时间|mini](https://image.5050520.xyz/i/2024/01/16/hin8np.jpg)
 
 相信大家看了这样营业时间图，心里都有数了。这里提一下，香港海关节假日通过关人数多，需要预留足够时间。我是坐高铁从福田出发，14分钟以后到达西九龙海关。节假日需要预留最少30分钟过海关，平常工作日一般15分钟就能通过。
 

@@ -5,15 +5,15 @@ pubDate: 2021-11-06
 description: '指针是 C 语言的精华部分，同时也是表示链式存储结构的关键所在。理解了指针的基础概念，再理解单链表等链式数据结构就不再是个难题。'
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
-    square: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
+    url: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
+    square: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
     alt: 'cover'
 tags: ["数据结构", "C", "C指针"]
 theme: 'light'
 featured: true
 ---
 
-![封面](https://pic.lookcos.cn/i/2023/02/27/1194dq4.png)
+![封面](https://image.5050520.xyz/i/2023/02/27/1194dq4.png)
 
 
 ## 关于指针
@@ -63,7 +63,7 @@ featured: true
 符号`&`是取地址符，那么&age = 000000000062FE1C;由于指针变量本身也是一个变量，所以p也有一个自己的地址，对其取地址操作&p=000000000062FE10;
 而`*p`则是获取指针变量p存储的值对应内存地址中存储的值。
 
-[1]: https://pic.lookcos.cn/i/usr/uploads/2021/11/3435806864.png
+[1]: https://image.5050520.xyz/i/usr/uploads/2021/11/3435806864.png
 
 
 ## struct的声明

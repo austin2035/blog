@@ -5,15 +5,15 @@ pubDate: 2021-11-10
 description: '双端链表也叫双向链表或双链表，它是一种非常实用的数据结构。'
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
-    square: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
+    url: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
+    square: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
     alt: 'cover'
 tags: ["数据结构", "C", "双链表"]
 theme: 'light'
 featured: true
 ---
 
-![数据结构之双端链表](https://pic.lookcos.cn/i/2023/02/27/1194dq4.png)
+![数据结构之双端链表](https://image.5050520.xyz/i/2023/02/27/1194dq4.png)
 
 ## 关于双端链表  
 
@@ -434,8 +434,8 @@ B
 详见代码清单。
 
 
-  [1]: https://pic.lookcos.cn/i/usr/uploads/2021/11/2300058278.png
-  [2]: https://pic.lookcos.cn/i/usr/uploads/2021/11/266091259.png
-  [3]: https://pic.lookcos.cn/i/usr/uploads/2021/11/2570152105.png
-  [4]: https://pic.lookcos.cn/i/usr/uploads/2021/11/3710691052.png
-  [5]: https://pic.lookcos.cn/i/usr/uploads/2021/11/3281861290.png
+  [1]: https://image.5050520.xyz/i/usr/uploads/2021/11/2300058278.png
+  [2]: https://image.5050520.xyz/i/usr/uploads/2021/11/266091259.png
+  [3]: https://image.5050520.xyz/i/usr/uploads/2021/11/2570152105.png
+  [4]: https://image.5050520.xyz/i/usr/uploads/2021/11/3710691052.png
+  [5]: https://image.5050520.xyz/i/usr/uploads/2021/11/3281861290.png

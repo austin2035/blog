@@ -5,15 +5,15 @@ pubDate: 2021-11-08
 description: '栈（stack）是一种后进先出（Last In First Out, LIFO）的线性表，表尾有特殊含义，称为栈顶（top）。'
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
-    square: 'https://pic.lookcos.cn/i/2023/02/27/1194dq4.png'
+    url: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
+    square: 'https://image.5050520.xyz/i/2023/02/27/1194dq4.png'
     alt: 'cover'
 tags: ["数据结构", "C", "栈", "链栈"]
 theme: 'light'
 featured: true
 ---
 
-![数据结构之链式栈](https://pic.lookcos.cn/i/2023/02/27/1194dq4.png)
+![数据结构之链式栈](https://image.5050520.xyz/i/2023/02/27/1194dq4.png)
 
 ## 什么是栈  
 
@@ -218,6 +218,6 @@ a
 完整代码，详见代码清单。  
 
 
-  [1]: https://pic.lookcos.cn/i/usr/uploads/2021/11/3955121569.png
-  [2]: https://pic.lookcos.cn/i/usr/uploads/2021/11/4263534373.png
-  [3]: https://pic.lookcos.cn/i/usr/uploads/2021/11/3021582.png
+  [1]: https://image.5050520.xyz/i/usr/uploads/2021/11/3955121569.png
+  [2]: https://image.5050520.xyz/i/usr/uploads/2021/11/4263534373.png
+  [3]: https://image.5050520.xyz/i/usr/uploads/2021/11/3021582.png

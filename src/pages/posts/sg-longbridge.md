@@ -5,9 +5,9 @@ pubDate: 2024-05-07
 description: '一篇图文并茂的文章，带你解锁美股交易。'
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/2024/05/07/r1174o.png'
-    square: 'https://pic.lookcos.cn/i/2024/05/07/r1174o.png'
-    twitter: 'https://pic.lookcos.cn/i/2024/05/07/r1174o.png'
+    url: 'https://image.5050520.xyz/i/2024/05/07/r1174o.png'
+    square: 'https://image.5050520.xyz/i/2024/05/07/r1174o.png'
+    twitter: 'https://image.5050520.xyz/i/2024/05/07/r1174o.png'
     alt: 'cover'
 tags: ["分享", "经验", "投资交易", "港股", " 美股"]
 theme: 'light'
@@ -33,7 +33,7 @@ featured: true
 
 耳熟能详的证券公司有长桥、老虎、富途这些。经过我的对比长桥证券对新手最友好，性价比最高。
 
-![券商费用对比|mini](https://pic.lookcos.cn/i/2024/05/07/pcyh7v.jpg)
+![券商费用对比|mini](https://image.5050520.xyz/i/2024/05/07/pcyh7v.jpg)
 
 除此之外，我强烈建议你使用我的邀请链接或者邀请码开户。  
 **有哪些好处？**
@@ -68,7 +68,7 @@ featured: true
 
 ### 1. 填写基本信息
 
-![step1](https://pic.lookcos.cn/i/2024/05/07/pp8ab3.png)
+![step1](https://image.5050520.xyz/i/2024/05/07/pp8ab3.png)
 
 如图所示，我们需要先填写身份信息。图一左边是上传身份证（**错误示范**）、右边是上传护照（**正确操作**）。
 
@@ -81,25 +81,25 @@ featured: true
 
 地址证明可以是中文证明材料，最好用的是招商银行 Visa 信用卡带地址的账单。也可以是水电煤气，甚至是手机号码费用账单，只要带地址和相关戳就行。如果实在搞不定，就加群问长桥活动助手或者我。
 
-![个人详细信息填写|mini](https://pic.lookcos.cn/i/2024/05/07/prtn9m.jpg)
+![个人详细信息填写|mini](https://image.5050520.xyz/i/2024/05/07/prtn9m.jpg)
 
 ### 填写职业信息和纳税信息
 
 这一步较为简单，如实填写即可。重点是税务编号，要填写身份证号。手机和邮箱不要填写错误。
 
-![职业信息与纳税信息](https://pic.lookcos.cn/i/2024/05/07/qkfnt4.png)
+![职业信息与纳税信息](https://image.5050520.xyz/i/2024/05/07/qkfnt4.png)
 
 ### 填写金融背景信息
 
 这一步需要填写资产和自身财富相关信息，如实填写即可，非常简单。
 
-![金融背景信息1](https://pic.lookcos.cn/i/2024/05/07/qok1k9.png)
+![金融背景信息1](https://image.5050520.xyz/i/2024/05/07/qok1k9.png)
 
 ### 提交开户信息
 
 当我们金融背景信息填写完毕之后，就可以提交开户流程了，等待 1-2 个工作日即可。
 
-![金融背景信息2](https://pic.lookcos.cn/i/2024/05/07/qok07u.png)
+![金融背景信息2](https://image.5050520.xyz/i/2024/05/07/qok07u.png)
 
 ## 最后
 
